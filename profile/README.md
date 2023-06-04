@@ -1,5 +1,3 @@
-# api<sup>2</sup>
-
 ## Double the potential of your platform with api<sup>2</sup>!
 
 Say goodbye to the tedious and confusing aspects of managing API portals, and say hello to a seamless and customer-friendly solution.
